@@ -25,3 +25,7 @@ gcp-key.json
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore service account credentials
+my-project-900-455006-b6c683c5ad18.json
+*.json
